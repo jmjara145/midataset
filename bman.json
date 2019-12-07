@@ -10,32 +10,32 @@
           "name": 2015,
           "children": [
             {
-              "name": "MURDERS",
-              "value": 37
+              "name": "Abuso sexual",
+              "value": 188
             },
             {
-              "name": "RAPE",
-              "value": 278
+              "name": "Acoso sexual",
+              "value": 8
             },
             {
-              "name": "ROBBERY",
-              "value": 2903
+              "name": "Actos sexuales violencia",
+              "value": 2
             },
             {
-              "name": "FELONY ASSAULT",
-              "value": 3334
+              "name": "Negligencia y abandono",
+              "value": 615
             },
             {
-              "name": "BURGLARY",
-              "value": 2820
+              "name": "Sin información",
+              "value": 0
             },
             {
-              "name": "GRAND LARCENY ",
-              "value": 15822
+              "name": "Violencia",
+              "value": 345
             },
             {
-              "name": "GRAND LARCENY-MV",
-              "value": 761
+              "name": "Violación",
+              "value": 12
             }
           ]
         },
@@ -44,31 +44,31 @@
           "name": 2016,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 41
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 308
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 3146
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono",
               "value": 3524
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2764
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 16227
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 813
             }
           ]
@@ -78,31 +78,31 @@
           "name": 2017,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 41
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 292
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 2919
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 3716
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2420
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 16491
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 733
             }
           ]
@@ -112,31 +112,31 @@
           "name": 2018,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 46
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 298
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 2744
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 3640
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2411
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 16184
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 626
             }
           ]
@@ -146,31 +146,31 @@
           "name": 2019,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 31
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 404
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 2710
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 3716
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2601
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 16607
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 711
             }
           ]
@@ -186,31 +186,31 @@
           "name": 2015,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 95
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 309
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 3990
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 5190
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2858
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 5954
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 1474
             }
           ]
@@ -220,31 +220,31 @@
           "name": 2016,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 91
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 351
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 4382
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 5378
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2681
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 6344
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 1585
             }
           ]
@@ -254,31 +254,31 @@
           "name": 2017,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 98
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 339
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 4292
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 5596
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2598
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 6541
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 1372
             }
           ]
@@ -288,31 +288,31 @@
           "name": 2018,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 72
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 331
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 3550
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 5489
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2254
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 6825
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 1348
             }
           ]
@@ -322,31 +322,31 @@
           "name": 2019,
           "children": [
             {
-              "name": "MURDERS",
+              "name": "Abuso sexual",
               "value": 91
             },
             {
-              "name": "RAPE",
+              "name": "Acoso sexual",
               "value": 386
             },
             {
-              "name": "ROBBERY",
+              "name": "Actos sexuales violencia",
               "value": 3210
             },
             {
-              "name": "FELONY ASSAULT",
+              "name": "Negligencia y abandono ",
               "value": 5640
             },
             {
-              "name": "BURGLARY",
+              "name": "Sin información",
               "value": 2272
             },
             {
-              "name": "GRAND LARCENY ",
+              "name": "Violencia",
               "value": 6357
             },
             {
-              "name": "GRAND LARCENY-MV",
+              "name": "Violación",
               "value": 1301
             }
           ]
