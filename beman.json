@@ -30,8 +30,12 @@
               "value": 0
             },
             {
-              "name": "Violencia",
-              "value": 345
+              "name": "Violencia física",
+              "value": 319
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 26
             },
             {
               "name": "Violación",
@@ -64,8 +68,12 @@
               "value": 2764
             },
             {
-              "name": "Violencia",
-              "value": 16227
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -98,8 +106,12 @@
               "value": 2420
             },
             {
-              "name": "Violencia",
-              "value": 16491
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -132,8 +144,12 @@
               "value": 2411
             },
             {
-              "name": "Violencia",
-              "value": 16184
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -166,8 +182,12 @@
               "value": 2601
             },
             {
-              "name": "Violencia",
-              "value": 16607
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -206,8 +226,12 @@
               "value": 2858
             },
             {
-              "name": "Violencia",
-              "value": 5954
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -240,8 +264,12 @@
               "value": 2681
             },
             {
-              "name": "Violencia",
-              "value": 6344
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -274,8 +302,12 @@
               "value": 2598
             },
             {
-              "name": "Violencia",
-              "value": 6541
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -308,8 +340,12 @@
               "value": 2254
             },
             {
-              "name": "Violencia",
-              "value": 6825
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
@@ -342,8 +378,12 @@
               "value": 2272
             },
             {
-              "name": "Violencia",
-              "value": 6357
+              "name": "Violencia física",
+              "value": 345
+            },
+            {
+              "name": "Violencia psicológica",
+              "value": 345
             },
             {
               "name": "Violación",
